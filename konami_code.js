@@ -26,7 +26,7 @@ let test_1 = codes.toString();
 let test_2 = index.toString();
 
 if (test_1 === test_2) {
-  alert('It works!!!');
+  alert('Hurray');
 }
 });
 
